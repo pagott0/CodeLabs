@@ -1,0 +1,22 @@
+h1 {
+    color: turquoise;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    border: 3px solid turquoise;
+    
+}
+
+a {
+    display: left;
+    color: black;
+}
+
+#Autor {
+    color: turquoise;
+    border: 3px solid black;
+    border-radius: 50px;
+    font-size: 20px;
+}
