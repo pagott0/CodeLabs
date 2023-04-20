@@ -1,0 +1,25 @@
+.CachorroPic {
+    border: 5px dashed black;
+    
+
+}
+
+p {
+    text-align: center;
+    border: 2px solid beige;
+    margin: auto;
+}
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+#Cachorrostexto {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
