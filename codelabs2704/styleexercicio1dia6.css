@@ -1,0 +1,50 @@
+h1 {
+    color: turquoise;
+    text-align: center;
+    transition: color 1s ease-in-out;
+}
+
+p {
+    text-align: left;
+    border: 3px solid turquoise;
+    margin: auto;
+    width: fit-content;
+    
+    
+    
+}
+
+a {
+    display: left;
+    color: black;
+}
+
+#Autor {
+    color: turquoise;
+    border: 3px solid black;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-top: 30px;
+    width: fit-content;
+}
+
+#paragrafoscolunas {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    
+    
+}
+h1:hover {
+    color: red;
+    
+    
+}
+
+.RedLine {
+    transition: color 250ms ease-in-out;
+}
+
+
+.RedLine:hover {
+    color: red;
+}
